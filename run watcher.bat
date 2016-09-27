@@ -1,0 +1,1 @@
+python watchServer.py -s script.bat
